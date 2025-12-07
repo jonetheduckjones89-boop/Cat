@@ -1,0 +1,5 @@
+{
+  "name": "HealthAuto Dashboard",
+  "description": "A comprehensive dashboard for managing patients, schedules, files, and AI-driven presentation reviews.",
+  "requestFramePermissions": []
+}
